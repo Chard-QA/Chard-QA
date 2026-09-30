@@ -47,18 +47,6 @@ Playwright + TypeScript automation framework covering **UI testing** with The In
 
 ---
 
-My GitHub focuses on practical QA automation projects that demonstrate:
-
-- UI automation
-- API testing
-- Page Object Model
-- Cross-browser testing
-- Test data management
-- GitHub Actions CI
-- Playwright reporting and debugging artifacts
-
----
-
 ## QA & Automation Skills
 
 ### Testing
