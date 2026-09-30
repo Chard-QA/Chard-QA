@@ -11,50 +11,6 @@ I’m a Software QA professional with hands-on experience in manual testing for 
 ![API Testing](https://img.shields.io/badge/API-Testing-orange)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-black)
 
-My GitHub focuses on practical QA automation projects that demonstrate:
-
-- UI automation
-- API testing
-- Page Object Model
-- Cross-browser testing
-- Test data management
-- GitHub Actions CI
-- Playwright reporting and debugging artifacts
-
----
-
-## QA & Automation Skills
-
-### Testing
-- Manual Testing
-- Functional Testing
-- Regression Testing
-- Integration Testing
-- Exploratory Testing
-- API Testing
-- Test Case Design
-- Defect Reporting
-
-### Automation
-- Playwright
-- TypeScript
-- Page Object Model
-- Parameterized Testing
-- Cross-Browser Testing
-- Playwright Request Fixture
-- HTML Reporting
-- Screenshots, Videos, and Traces
-
-### Tools & Technologies
-- Postman
-- Git
-- GitHub
-- GitHub Actions
-- npm
-- Node.js
-- Basic SQL
-- JSON / REST APIs
-
 ---
 
 # Featured Automation Projects
@@ -106,6 +62,52 @@ https://github.com/Chard-QA/the-internet-playwright
 
 ---
 
+My GitHub focuses on practical QA automation projects that demonstrate:
+
+- UI automation
+- API testing
+- Page Object Model
+- Cross-browser testing
+- Test data management
+- GitHub Actions CI
+- Playwright reporting and debugging artifacts
+
+---
+
+## QA & Automation Skills
+
+### Testing
+- Manual Testing
+- Functional Testing
+- Regression Testing
+- Integration Testing
+- Exploratory Testing
+- API Testing
+- Test Case Design
+- Defect Reporting
+
+### Automation
+- Playwright
+- TypeScript
+- Page Object Model
+- Parameterized Testing
+- Cross-Browser Testing
+- Playwright Request Fixture
+- HTML Reporting
+- Screenshots, Videos, and Traces
+
+### Tools & Technologies
+- Postman
+- Git
+- GitHub
+- GitHub Actions
+- npm
+- Node.js
+- Basic SQL
+- JSON / REST APIs
+
+---
+
 ## Current Focus
 
 I’m currently strengthening my automation skills in:
@@ -117,22 +119,6 @@ I’m currently strengthening my automation skills in:
 - Reusable automation architecture
 - Test maintainability
 - Automation best practices
-
----
-
-## GitHub Portfolio Goal
-
-This GitHub profile is focused on showcasing practical **Software QA and Test Automation** work.
-
-Each featured project includes:
-
-- Clear project documentation
-- Structured automation framework
-- Reusable test components
-- Cross-browser execution
-- API testing
-- Continuous Integration
-- Test reporting and debugging artifacts
 
 ---
 
