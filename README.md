@@ -13,9 +13,9 @@ I’m a Software QA professional with hands-on experience in manual testing for 
 
 ---
 
-# Featured Automation Projects
+## Featured Automation Projects
 
-## 🧪 SauceDemo Playwright Automation
+### 🧪 SauceDemo Playwright Automation
 
 End-to-end **UI and API automation framework** built with Playwright and TypeScript.
 
@@ -31,7 +31,7 @@ End-to-end **UI and API automation framework** built with Playwright and TypeScr
 
 ---
 
-## 🌐 The Internet Playwright Automation
+### 🌐 The Internet Playwright Automation
 
 Playwright + TypeScript automation framework covering **UI testing** with The Internet Heroku and **API testing** with JSONPlaceholder.
 
