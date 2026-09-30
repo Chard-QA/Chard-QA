@@ -4,6 +4,13 @@
 
 I’m a Software QA professional with hands-on experience in manual testing for web and mobile applications, and I’m continuously expanding my automation skills using **Playwright + TypeScript**.
 
+### Tech Stack
+
+![Playwright](https://img.shields.io/badge/Playwright-Testing-green)
+![TypeScript](https://img.shields.io/badge/TypeScript-Automation-blue)
+![API Testing](https://img.shields.io/badge/API-Testing-orange)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-black)
+
 My GitHub focuses on practical QA automation projects that demonstrate:
 
 - UI automation
